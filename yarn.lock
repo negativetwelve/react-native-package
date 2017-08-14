@@ -3586,9 +3586,9 @@ react-native-module-check@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/react-native-module-check/-/react-native-module-check-1.6.0.tgz#595f9b09377db4ef1d7858e1f4ab3fe4a8787fea"
 
-react-native-module-guard@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-module-guard/-/react-native-module-guard-1.1.0.tgz#fbdef8e9c28d1441bea38fce5a73d9e8b7551bb1"
+react-native-module-guard@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-module-guard/-/react-native-module-guard-1.2.0.tgz#2869a61aa29ec6a72424b29a0db08fbd186ffa6a"
   dependencies:
     warning "^3.0.0"
 

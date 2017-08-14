@@ -32,7 +32,7 @@
   "engines": {},
   "dependencies": {
     "react-native-module-check": "^1.6.0",
-    "react-native-module-guard": "^1.1.0"
+    "react-native-module-guard": "^1.2.0"
   },
   "peerDependencies": {
     "react-native": "*"
