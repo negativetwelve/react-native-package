@@ -1,6 +1,6 @@
 {
   "name": "react-native-package",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Provides a consistent format to define and export packages for React Native.",
   "main": "src/index.js",
   "files": [
