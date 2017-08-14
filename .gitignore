@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# General
+*.log
+
+# JS
+node_modules
+build
