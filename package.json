@@ -30,13 +30,18 @@
   },
   "homepage": "https://github.com/negativetwelve/react-native-package",
   "engines": {},
-  "dependencies": {},
+  "dependencies": {
+    "react-native-module-check": "^1.6.0",
+    "react-native-module-guard": "^1.1.0"
+  },
   "peerDependencies": {
     "react-native": "*"
   },
   "devDependencies": {
     "eslint-config-jolt": "^1.0.2",
-    "jest-preset-jolt": "^1.0.1"
+    "jest-preset-jolt": "^1.0.1",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.47.1"
   },
   "eslintConfig": {
     "extends": "jolt"
