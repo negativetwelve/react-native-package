@@ -3582,9 +3582,9 @@ react-devtools-core@2.3.1:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
-react-native-module-check@^1.7.0:
-  version "1.7.0"
-  resolved "https://registry.yarnpkg.com/react-native-module-check/-/react-native-module-check-1.7.0.tgz#8c687957383772696dd4501f9d2de98f27264f9b"
+react-native-module-check@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-module-check/-/react-native-module-check-2.0.0.tgz#ebf92f572efc527104291af4a6550e2ccf0e10ac"
   dependencies:
     invariant "^2.2.2"
     warning "^3.0.0"
