@@ -83,6 +83,18 @@ export default class App extends React.Component {
 
 will not error! :tada:
 
+## List of Packages using `react-native-package`
+
+| Package | Description |
+|---------|-------------|
+| [`react-native-amplitude-sdk`](https://github.com/negativetwelve/react-native-amplitude-sdk) | React Native wrapper for Amplitude |
+| [`react-native-heap-analytics`](https://github.com/negativetwelve/react-native-heap-analytics) | React Native wrapper for Heap Analytics |
+| [`react-native-instabug-sdk`](https://github.com/negativetwelve/react-native-instabug-sdk) | React Native wrapper for Instabug |
+| [`react-native-lookback`](https://github.com/negativetwelve/react-native-lookback) | React Native wrapper for Lookback.io |
+| [`react-native-segment-io`](https://github.com/negativetwelve/react-native-segment-io) | React Native wrapper for Segment.io |
+| [`react-native-ux-cam`](https://github.com/negativetwelve/react-native-ux-cam) | React Native wrapper for uxcam.com |
+
+Please submit a PR to add your package to this list!
 
 ## Contributing
 
