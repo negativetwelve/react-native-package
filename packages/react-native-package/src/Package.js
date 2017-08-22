@@ -10,20 +10,17 @@ const createPackage = ({
   enabled,
   export: createExport,
 }) => {
-  const {name, homepage: repo} = json;
-
   // `enabled` might be passed in as undefined (from Platform.select) so we
   // can't use default args here.
   const isEnabled = enabled || false;
 
   // Runs checks to make sure the module is installed correctly if `isEnabled`
   // is set to true.
-  check({name, repo, nativeModule, enabled: isEnabled});
+  check({json, nativeModule, enabled: isEnabled});
 
   // Returns the guarded, exported module from the input `export` function.
   return guard({
-    name,
-    repo,
+    json,
     nativeModule,
     enabled: isEnabled,
     export: createExport,
