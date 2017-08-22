@@ -12,6 +12,7 @@
     "eslint-config-jolt": "^1.0.2",
     "husky": "^0.14.3",
     "jest": "^20.0.4",
+    "jest-preset-jolt": "^1.3.0",
     "lerna": "^2.0.0",
     "lint-staged": "^4.0.3",
     "rimraf": "^2.6.1"
@@ -19,6 +20,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "jest": {
+    "preset": "jest-preset-jolt"
+  },
   "lint-staged": {
     "*.js": [
       "yarn lint"
@@ -30,7 +34,7 @@
     "clean": "lerna clean --yes && lerna run clean",
     "lint": "eslint .",
     "precommit": "lint-staged",
-    "test": "jest --projects packages/*",
+    "test": "jest",
     "test:build": "yarn run build && yarn run test"
   }
 }
