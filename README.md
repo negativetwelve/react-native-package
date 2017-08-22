@@ -22,14 +22,14 @@ Plugin | Version | Description
 
 Table of packages from the community using `react-native-package`:
 
-Package | Version | Description
+Package | Version | Downloads
 --------|---------| -----------
-[`react-native-amplitude-sdk`][gh-amplitude-sdk] | [![npm](https://img.shields.io/npm/v/react-native-amplitude-sdk.svg)][npm-amplitude-sdk] | React Native wrapper for Amplitude
-[`react-native-heap-analytics`][gh-heap-analytics] | [![npm](https://img.shields.io/npm/v/react-native-heap-analytics.svg)][npm-heap-analytics] | React Native wrapper for Heap Analytics
-[`react-native-instabug-sdk`][gh-instabug-sdk] | [![npm](https://img.shields.io/npm/v/react-native-instabug-sdk.svg)][npm-instabug-sdk] | React Native wrapper for Instabug
-[`react-native-lookback`][gh-lookback] | [![npm](https://img.shields.io/npm/v/react-native-lookback.svg)][npm-lookback] | React Native wrapper for Lookback.io
-[`react-native-segment-io`][gh-segment-io] | [![npm](https://img.shields.io/npm/v/react-native-segment-io.svg)][npm-segment-io] | React Native wrapper for Segment.io
-[`react-native-ux-cam`][gh-ux-cam] | [![npm](https://img.shields.io/npm/v/react-native-ux-cam.svg)][npm-ux-cam] | React Native wrapper for uxcam.com
+[`react-native-amplitude-sdk`][gh-amplitude-sdk] | [![npm](https://img.shields.io/npm/v/react-native-amplitude-sdk.svg)][npm-amplitude-sdk] | [![npm](https://img.shields.io/npm/dt/react-native-amplitude-sdk.svg)][npm-amplitude-sdk]
+[`react-native-heap-analytics`][gh-heap-analytics] | [![npm](https://img.shields.io/npm/v/react-native-heap-analytics.svg)][npm-heap-analytics] | [![npm](https://img.shields.io/npm/dt/react-native-heap-analytics.svg)][npm-heap-analytics]
+[`react-native-instabug-sdk`][gh-instabug-sdk] | [![npm](https://img.shields.io/npm/v/react-native-instabug-sdk.svg)][npm-instabug-sdk] | [![npm](https://img.shields.io/npm/dt/react-native-instabug-sdk.svg)][npm-instabug-sdk]
+[`react-native-lookback`][gh-lookback] | [![npm](https://img.shields.io/npm/v/react-native-lookback.svg)][npm-lookback] | [![npm](https://img.shields.io/npm/dt/react-native-lookback.svg)][npm-lookback]
+[`react-native-segment-io`][gh-segment-io] | [![npm](https://img.shields.io/npm/v/react-native-segment-io.svg)][npm-segment-io] | [![npm](https://img.shields.io/npm/dt/react-native-segment-io.svg)][npm-segment-io]
+[`react-native-ux-cam`][gh-ux-cam] | [![npm](https://img.shields.io/npm/v/react-native-ux-cam.svg)][npm-ux-cam] | [![npm](https://img.shields.io/npm/dt/react-native-ux-cam.svg)][npm-ux-cam]
 
 Please submit a PR to add your package to this list!
 
