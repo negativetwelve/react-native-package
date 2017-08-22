@@ -14,8 +14,10 @@ The React Native Package repo is managed as a monorepo that is composed of many 
 
 Plugin | Version | Description
 -------|---------|------------
+[`react-native-module-check`](/packages/react-native-module-check) | [![npm](https://img.shields.io/npm/v/react-native-module-check.svg)][npm-module-check] | Validates platform for react-native modules.
 [`react-native-package`](/packages/react-native-package) | [![npm](https://img.shields.io/npm/v/react-native-package.svg)][npm-package] | Consistent format for react-native packages.
 
+[npm-module-check]: https://www.npmjs.com/package/react-native-module-check
 [npm-package]: https://www.npmjs.com/package/react-native-package
 
 ## Community
