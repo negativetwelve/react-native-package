@@ -20,6 +20,9 @@
   "workspaces": [
     "packages/*"
   ],
+  "jest": {
+    "preset": "jest-preset-jolt"
+  },
   "lint-staged": {
     "*.js": [
       "yarn lint"
@@ -31,7 +34,7 @@
     "clean": "lerna clean --yes && lerna run clean",
     "lint": "eslint .",
     "precommit": "lint-staged",
-    "test": "jest --projects packages/*",
+    "test": "jest",
     "test:build": "yarn run build && yarn run test"
   }
 }
