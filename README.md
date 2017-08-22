@@ -18,7 +18,9 @@ Plugin | Version | Description
 
 [npm-package]: https://www.npmjs.com/package/react-native-package
 
-## Community Packages using `react-native-package`
+## Community
+
+Table of packages from the community using `react-native-package`:
 
 Package | Version | Description
 --------|---------| -----------
