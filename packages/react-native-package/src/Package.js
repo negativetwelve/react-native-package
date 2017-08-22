@@ -31,6 +31,6 @@ const createPackage = ({
 };
 
 
-module.exports = {
+export default {
   create: createPackage,
 };
