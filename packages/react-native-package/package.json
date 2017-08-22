@@ -1,6 +1,6 @@
 {
   "name": "react-native-package",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "Provides a consistent format to define and export packages for React Native.",
   "license": "MIT",
   "main": "build/Package",
