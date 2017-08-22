@@ -1,6 +1,6 @@
 {
   "name": "react-native-package",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Provides a consistent format to define and export packages for React Native.",
   "license": "MIT",
   "main": "build/Package",
@@ -19,7 +19,7 @@
   "repository": "negativetwelve/react-native-package",
   "dependencies": {
     "react-native-module-check": "^2.3.0",
-    "react-native-module-guard": "^2.2.0"
+    "react-native-module-guard": "^2.4.1"
   },
   "peerDependencies": {
     "react-native": "*"
