@@ -44,7 +44,7 @@ const guardModule = ({isEnabled, Module}) => {
  *                   takes in the guarded module and uses the methods.
  *
  */
-const guardExport = ({
+export const guard = ({
   json,
   nativeModule,
   enabled,
@@ -77,9 +77,4 @@ const guardExport = ({
   // GuardedModule is just a plain object with methods replaced with noops
   // if `isEnabled` is set to false.
   return GuardedModule;
-};
-
-
-export default {
-  guard: guardExport,
 };
