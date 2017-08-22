@@ -1,10 +1,10 @@
 // Modules
-import Module from '../Module';
+import {check} from '../Module';
 
 
 /* eslint-disable no-undef */
 describe('Module', () => {
-  describe('.check', () => {
+  describe('check', () => {
     set('name', () => 'react-native-module-check');
     set('homepage', () => {
       return 'https://github.com/negativetwelve/react-native-package';
@@ -15,7 +15,7 @@ describe('Module', () => {
     set('warn', () => false);
     set('error', () => false);
 
-    action('checkModule', () => Module.check({
+    action('checkModule', () => check({
       json,
       nativeModule,
       enabled,
