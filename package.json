@@ -18,9 +18,14 @@
     "lint-staged": "^4.0.3",
     "rimraf": "^2.6.1"
   },
-  "workspaces": [
-    "packages/*"
+  "eslintIgnore": [
+    "build",
+    "coverage",
+    "node_modules"
   ],
+  "eslintConfig": {
+    "extends": "jolt"
+  },
   "jest": {
     "preset": "jest-preset-jolt"
   },
@@ -29,6 +34,9 @@
       "yarn lint"
     ]
   },
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "build": "lerna run build",
