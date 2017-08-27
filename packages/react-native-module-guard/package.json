@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Mark Miyashita <negativetwelve@gmail.com>",
   "homepage": "https://github.com/negativetwelve/react-native-package",
-  "repository": "negativetwelve/react-native-package",
+  "repository": "https://github.com/negativetwelve/react-native-package/tree/master/packages/react-native-module-guard",
   "keywords": [
     "dx",
     "module",
