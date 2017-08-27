@@ -3,10 +3,9 @@
   "version": "2.5.0",
   "description": "Provides a consistent format to define and export packages for React Native.",
   "license": "MIT",
-  "main": "build/Package",
-  "files": [
-    "build"
-  ],
+  "author": "Mark Miyashita <negativetwelve@gmail.com>",
+  "homepage": "https://github.com/negativetwelve/react-native-package",
+  "repository": "negativetwelve/react-native-package",
   "keywords": [
     "dx",
     "module",
@@ -14,9 +13,10 @@
     "package",
     "react-native"
   ],
-  "author": "Mark Miyashita <negativetwelve@gmail.com>",
-  "homepage": "https://github.com/negativetwelve/react-native-package",
-  "repository": "negativetwelve/react-native-package",
+  "main": "build/Package",
+  "files": [
+    "build"
+  ],
   "dependencies": {
     "react-native-module-check": "^2.5.0",
     "react-native-module-guard": "^2.5.0"

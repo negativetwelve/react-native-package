@@ -3,19 +3,19 @@
   "version": "2.5.0",
   "description": "Guards React Native NativeModules that are not implemented for a particular platform.",
   "license": "MIT",
-  "main": "build/Module",
-  "files": [
-    "build"
-  ],
+  "author": "Mark Miyashita <negativetwelve@gmail.com>",
+  "homepage": "https://github.com/negativetwelve/react-native-package",
+  "repository": "negativetwelve/react-native-package",
   "keywords": [
     "dx",
     "module",
     "native",
     "react-native"
   ],
-  "author": "Mark Miyashita <negativetwelve@gmail.com>",
-  "homepage": "https://github.com/negativetwelve/react-native-package",
-  "repository": "negativetwelve/react-native-package",
+  "main": "build/Module",
+  "files": [
+    "build"
+  ],
   "dependencies": {
     "warning": "^3.0.0"
   },
