@@ -1,6 +1,9 @@
 # React Native Package
 
-[![CircleCI branch](https://img.shields.io/circleci/project/github/negativetwelve/react-native-package/master.svg)](https://circleci.com/gh/negativetwelve/react-native-package)
+[![CircleCI](https://img.shields.io/circleci/project/github/negativetwelve/react-native-package.svg?label=circle)](https://circleci.com/gh/negativetwelve/react-native-package)
+[![Travis](https://img.shields.io/travis/negativetwelve/react-native-package.svg?label=travis)](https://travis-ci.org/negativetwelve/react-native-package)
+[![AppVeyor](https://img.shields.io/appveyor/ci/negativetwelve/react-native-package.svg?label=appveyor)](https://ci.appveyor.com/project/negativetwelve/react-native-package)
+[![Coveralls](https://img.shields.io/coveralls/negativetwelve/react-native-package.svg)](https://coveralls.io/github/negativetwelve/react-native-package?branch=master)
 
 Consistent format for react-native packages with built-in checks to validate packages.
 
