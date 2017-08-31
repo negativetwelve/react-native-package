@@ -1,6 +1,6 @@
 {
   "name": "react-native-module-guard",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "description": "Guards React Native NativeModules that are not implemented for a particular platform.",
   "license": "MIT",
   "author": "Mark Miyashita <negativetwelve@gmail.com>",
