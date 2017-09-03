@@ -1,6 +1,6 @@
 {
   "name": "react-native-package",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "description": "Provides a consistent format to define and export packages for React Native.",
   "license": "MIT",
   "author": "Mark Miyashita <negativetwelve@gmail.com>",
@@ -18,8 +18,8 @@
     "build"
   ],
   "dependencies": {
-    "react-native-module-check": "^2.6.1",
-    "react-native-module-guard": "^2.6.1"
+    "react-native-module-check": "^2.6.2",
+    "react-native-module-guard": "^2.6.2"
   },
   "peerDependencies": {
     "react-native": "*"
